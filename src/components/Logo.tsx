@@ -1,5 +1,4 @@
 import React from 'react';
-import h2oGymLogo from '../assets/images/h2o_gym_exact_logo_transparent.png';
 
 interface LogoProps {
   className?: string;
@@ -12,7 +11,7 @@ export default function Logo({ className = '', iconOnly = false }: LogoProps) {
   return (
     <div className={`flex items-center select-none ${className}`}>
       <img
-        src={h2oGymLogo}
+        src="/logo.png"
         alt="H2O GYM"
         className={`${heightClass} w-auto object-contain transition-all duration-300`}
         referrerPolicy="no-referrer"
