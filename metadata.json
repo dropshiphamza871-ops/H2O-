@@ -1,0 +1,6 @@
+{
+  "name": "H2O Gym Egypt",
+  "description": "The official high-end web platform of H2O Gym Egypt. Discover luxury fitness packages, class schedules across 25+ branches, professional trainer booking, and branch locators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
